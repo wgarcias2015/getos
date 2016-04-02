@@ -1,3 +1,5 @@
+First: Normal push
+
 Second :
 Todo borrado
 
@@ -6,3 +8,7 @@ Agregando algo
 
 Forth:
 Enviando cambios desde el branch al repositorio en el server
+
+Fith:
+
+Subiendo cambios desde el master. Esto indica que al final es solo push.
