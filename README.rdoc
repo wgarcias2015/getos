@@ -18,3 +18,6 @@ Aqui voy a subir de nuevo cambios desde el branch, no lo voy a subir a branch an
 Nuevo:
 Aqui voy a subir de nuevo cambios desde el branch, no lo voy a subir a branch antes de enviarlo al servidor.
 Porque tuve que resolver conflictos en el Sixth
+
+Ultima prueba Master:
+Subiendo desde el Master
