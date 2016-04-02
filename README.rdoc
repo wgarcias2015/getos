@@ -25,3 +25,8 @@ Subiendo desde el Master
 Yeso:
 Aqui voy a subir de nuevo cambios desde el branch, osea qno lo voy a subir al master antes de enviarlo al servidor.
 
+Yeso2:
+Aqui voy a subir de nuevo cambios desde el branch, osea qno lo voy a subir al master antes de enviarlo al servidor y ademas no le voy no voy a hacerle update al master.
+
+
+
