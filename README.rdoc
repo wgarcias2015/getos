@@ -21,3 +21,7 @@ Porque tuve que resolver conflictos en el Sixth
 
 Ultima prueba Master:
 Subiendo desde el Master
+
+Yeso:
+Aqui voy a subir de nuevo cambios desde el branch, osea qno lo voy a subir al master antes de enviarlo al servidor.
+
